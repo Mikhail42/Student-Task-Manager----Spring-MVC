@@ -1,0 +1,12 @@
+com/ionkin/beans/Task.class
+com/ionkin/dao/Dao.class
+com/ionkin/beans/StudentTask.class
+com/ionkin/dao/StudentMapper.class
+com/ionkin/dao/TaskMapper.class
+com/ionkin/beans/Student.class
+com/ionkin/dao/StudentDao.class
+com/ionkin/HelloWorldController.class
+com/ionkin/dao/TaskDao.class
+com/ionkin/dao/StudentTaskMapper.class
+com/ionkin/dao/StudentTaskDao.class
+com/ionkin/beans/StudentTaskView.class
